@@ -1,4 +1,4 @@
-# 👋 Hello! Sejam bem vindos ao meu Github!
+# 👋 Hello! Sejam bem vindos ao meu Github! </h3>
 
 ## 📖 About me
 🎓 Sou graduado em Engenharia de Produção pela Universidade Federal do Piauí (UFPI)
@@ -16,7 +16,15 @@
 
 ### Bancos de dados:
 <img alt="s" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-     
+
+## ✉ Contact me
+<p>
+  <a href="mailto:mathewscarvalho100@gmail.com"> <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mathews-carvalho-2178b21b2/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<!-- 
 ## 🔔 My latest activity
 
-## <img height="25" widht="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> GitHub Status
+##  GitHub Status
+-->
