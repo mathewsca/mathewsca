@@ -5,7 +5,7 @@
 - Me chamo Mathews.  
 - Sou Bacharel em Engenharia de Produção (UFPI) e Mestrando em Ciência da Computação (UFPI) com enfase em Computação Inteligente.
 - Atualmente além de produzir artigos para o mestrado, trabalho como analista de dados.
-- Inteligência Artificial e Aprendizado de Máquina com foco e predição.
+- Inteligência Artificial e Aprendizado de Máquina com foco em predição.
 
 ## 📂 Projetos que serão encontrados nesse GitHub:
 
